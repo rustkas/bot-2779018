@@ -1,2 +1,3 @@
-# bot-2779018
-Bots.Business bot 2779018
+# Repository Cleared
+
+This repository has been cleared by Bots.Business extension.
